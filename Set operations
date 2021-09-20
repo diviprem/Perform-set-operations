@@ -1,0 +1,11 @@
+A={1,7,4,3,9,5,2}
+B={4,9,0,5,2}
+c=A|B
+d=A&B
+e=A-B
+f=A^B
+print("Union of A and B=",c)
+print("Intersection of A and B=",d)
+print("Difference of A and B=",e)
+print("Symmetric Difference of A and B=",f)
+
